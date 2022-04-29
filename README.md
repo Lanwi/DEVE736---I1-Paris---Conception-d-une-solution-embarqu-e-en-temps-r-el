@@ -1,6 +1,6 @@
 # DEVE736---I1-Paris---Conception-d-une-solution-embarqu-e-en-temps-r-el
 
-Comment on peux le voir les pompe vont remplir les machine selon leurs besoin mais lorsque celui-ci est plein cela bloquer car la tache est completer . Lorsque la machine 1 aura fait son job et sera vide et aura de nouveau besoin d'huile moteur les pompe vont de nouveau l'alimenter , ainsi de suite 
+Comment on peut le voir les pompe vont remplir les machines selon leurs besoins, mais lorsque celui-ci est plein cela bloquer, car la tache est complétée. Lorsque la machine 1 aura fait son job et sera vide et aura de nouveaux besoins d'huile moteur les pompe vont de nouveau l'alimenter, ainsi de suite.
 
 The current time is: 8
 machine 1 : Début de la tache  (12:08:16) : execution temps = 6
